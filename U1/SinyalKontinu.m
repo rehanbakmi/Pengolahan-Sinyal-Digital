@@ -1,0 +1,1 @@
+Fs=100; <br>t=(1:100)/Fs; <br>s2=2*sin(2*pi*10*t); <br>plot(t,s2); grid on; <br>title('Sinus 10Hz, A=2');
